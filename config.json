@@ -1,0 +1,66 @@
+{
+  "PROGRAM_NAME": "Describer v1.0",
+  "TOKEN": "",
+  "CURRENT_ENGINE": "fancyfeast",
+  "CURRENT_TYPE": 16,
+  "CURRENT_LANGUAGE": "en",
+  "SHORTCUT": "f12",
+  "SHORTCUT_CODE": 88,
+  "SHORTCUT_KEYPAD": "False",
+  "MIN_CAPTION": 25,
+  "MAX_CAPTION": 60,
+  "MAX_LIMIT": 1000,
+  "COPYPASTE": true,
+  "ALL_FORMATS": [
+    "All Files (*.jpg *.jpeg *.bmp *.png)",
+    "JPEGs (*.jpg *.jpeg)",
+    "BMP (*.bmp)",
+    "PNG (*.png)"
+  ],
+  "LAST_PATH": "",
+  "LAST_SAVE_PATH": "",
+  "SELECTED_FORMATS": [
+    "jpeg",
+    "jpg",
+    "jpe",
+    "png",
+    "bmp"
+  ],
+  "LANGUAGES": {
+    "Русский": {
+      "name": "Русский",
+      "code": "ru",
+      "path": "translations/translate_ru.qm"
+    },
+    "English": {
+      "name": "English",
+      "code": "en",
+      "path": "translations/translate_en.qm"
+    }
+  },
+  "ENGINE": {
+    "fancyfeast": {
+      "name": "Fancyfeast",
+      "code": "fancyfeast",
+      "link": "https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha"
+    },
+    "florence": {
+      "name": "Florence-2",
+      "code": "florence",
+      "link": "https://huggingface.co/spaces/gokaygokay/Florence-2"
+    },
+    "sd3": {
+      "name": "Florence-2 SD3",
+      "code": "sd3",
+      "link": "https://huggingface.co/spaces/gokaygokay/Florence-2-SD3-Captioner"
+    }
+  },
+  "ENGINE_SHORTER": {
+    "bart": {
+      "name": "Bart Large CNN",
+      "code": "bart",
+      "link": "https://huggingface.co/facebook/bart-large-cnn"
+    }
+  },
+  "ENGINE_TYPE": 1
+}

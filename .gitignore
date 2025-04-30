@@ -1,0 +1,6 @@
+_for
+__pycache__/
+.vscode/
+venv/
+dist/
+build/
