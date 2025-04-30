@@ -27,7 +27,7 @@ GUI-программа для описания картинок на основ�
 Для бОльших возможностей - нужно создать и подключить токен huggingface (https://huggingface.co/settings/tokens) в программе - бОльшее количество генераций в сутки
 
 ### Используемые модели
-FancyFeast: https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha
-Florence-2: https://huggingface.co/spaces/gokaygokay/Florence-2
-Florence-SD3: https://huggingface.co/spaces/gokaygokay/Florence-2-SD3-Captioner
-Bart: https://huggingface.co/facebook/bart-large-cnn
+FancyFeast: https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha  
+Florence-2: https://huggingface.co/spaces/gokaygokay/Florence-2  
+Florence-SD3: https://huggingface.co/spaces/gokaygokay/Florence-2-SD3-Captioner  
+Bart: https://huggingface.co/facebook/bart-large-cnn  
